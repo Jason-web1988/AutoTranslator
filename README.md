@@ -1,7 +1,7 @@
 # AutoTranslator
 1. 개발 환경
 운영체제
-macOS (Apple Silicon 또는 Intel 기반)
+macOS (m1기반)
 
 주요 라이브러리 및 프레임워크
 paddleocr: OCR(문자 인식) 엔진, 중국어 감지용
